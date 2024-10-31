@@ -26,7 +26,6 @@ export class CardComponent implements OnInit {
   remover(){
     this.produtos.pop();
   }
-
 }
 
 
